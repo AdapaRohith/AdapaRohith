@@ -48,11 +48,9 @@
 
 ---
 
-### 🚗 Nearby Driver Service  
-🔗 https://nearbydriverservice.netlify.app  
-🧑‍💼 Live client website built and delivered professionally  
+- 🛰️ [**Kshetra – Land & Field Monitoring Platform**](https://kshetra.avlokai.com/)  
+  🌱 A smart web platform for land management, crop tracking, and field monitoring built under AvelokAI
 
----
 
 ## 🔗 Connect With Me
 
