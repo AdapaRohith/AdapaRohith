@@ -30,14 +30,14 @@
 
 ## 🌟 Featured Projects
 
-- 🔗 [**Nearby Driver Service**](https://nearbydriverservice.netlify.app)  
-  🚗 A live client website built and delivered professionally  
-
 - 💼 [**Portfolio Website**](https://adaparohith.github.io/my-portfolio)  
   👨‍💻 My personal portfolio showcasing skills and projects  
 
 - 🚀 [**AvlokAI – AI Automation Startup**](https://www.avlokai.com/)  
-  🤖 AI-powered automation & consulting platform built with my startup team  
+  🤖 AI-powered automation & consulting platform built with my startup team
+
+  🔗 [**Nearby Driver Service**](https://nearbydriverservice.netlify.app)  
+  🚗 A live client website built and delivered professionally  
 
 
 ---
